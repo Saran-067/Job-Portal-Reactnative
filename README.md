@@ -11,4 +11,5 @@ JOB PORTAL USING REACT NATIVE (EXPO) WITH EXPRESS BACKEND,MONODB DATABASE, CLOUD
     FOR BACKEND:
      1. npm install
      2. npm run dev
+	 
 Run both frontend and backend at same time
