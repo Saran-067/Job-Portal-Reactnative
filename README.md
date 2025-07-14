@@ -1,32 +1,25 @@
-JOB PORTAL APP:
+# 💼 JOB PORTAL APP
 
-   An mobile app with student side job applying,search,applicatioon status and profile update along with resume.
+A mobile application that allows **students** to:
 
-TECH STACKS:
-   Frontend: React-Native 
-   backend : Node, Express
-   Database: Mongodb
-   Cloud   : Cloudinary
+- Apply for jobs  
+- Search for jobs  
+- Track application status  
+- Update their profile and resume  
 
+---
 
- FOR FRONTEND:(app)
-     1. npm install
-     2. npx expo start 
+## 🛠 TECH STACKS
 
+- **Frontend**: React Native (Expo)  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB  
+- **Cloud**: Cloudinary (for image and resume upload)
 
-use expo app and scan qr code from laptop
+---
 
+## 📱 FRONTEND (App)
 
-
- FOR BACKEND:
-     1. npm install
-     2. npm run dev
-	 
-Run both frontend and backend at same time
-
-
-
-IMAGES
-
-
-
+```bash
+1. npm install
+2. npx expo start
